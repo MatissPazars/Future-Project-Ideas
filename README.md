@@ -7,4 +7,5 @@ Making an robotic arm (in the physical world) be actually physically controlled 
 
 ## A plane? An RC plane.
 Self-explanatory.
-
+## Learn Rule 110
+## 
