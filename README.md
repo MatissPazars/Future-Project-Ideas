@@ -15,3 +15,4 @@ Self-explanatory.
 ## Deep learning.
 ## Experiment with facial recognision on the esp32 Wrover Cam. 
 ## Isac Sim. 
+## Buy the RPI 5 (16GB?)
