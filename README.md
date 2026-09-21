@@ -9,6 +9,9 @@ Making an robotic arm (in the physical world) be actually physically controlled 
 Self-explanatory.
 ## Learn Rule 110
 ## Make an simulationary implementation of Prisoner's dilemma.
-## Reinforcement learning in Godot. 
+## Reinforcement learning in Godot. (Connected to the prior idea).
 ## Buy an Jetson Nano (?)
-## Make and order PCBAs (really useful and enhancing of the TC project). 
+## Make and order PCBAs (really useful and enhancing of the TC project). Finally learn KiCad. 
+## Deep learning.
+## Experiment with facial recognision on the esp32 Wrover Cam. 
+## Isac Sim. 
