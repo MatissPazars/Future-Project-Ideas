@@ -18,7 +18,7 @@ Self-explanatory.
 ## Buy the RPI 5 (16GB?)
 ## build an actually functioning robotic arm. one that isnt trash
 
-# Completed bucket-list:
+# Completed bucket-list :
 Buy an cutting mat
 buy an camera / phone stand
 buy an RPI zero 2 w
