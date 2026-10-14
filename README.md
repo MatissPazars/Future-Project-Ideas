@@ -19,10 +19,10 @@ Self-explanatory.
 ## build an actually functioning robotic arm. one that isnt trash
 
 # Completed bucket-list:
-Buy an cutting mat
-buy an camera / phone stand
-buy an RPI zero 2 w
-Make an actual project (currently completed multiple - e.g. - the kitchen robot)
-Make an AI model: ACS, Q-learning. both complete
-Learn Q-learning
+1. Buy an cutting mat
+2. buy an camera / phone stand
+3. buy an RPI zero 2 w
+4. Make an actual project (currently completed multiple - e.g. - the kitchen robot)
+5. Make an AI model: ACS, Q-learning. both complete
+6. Learn Q-learning
 
