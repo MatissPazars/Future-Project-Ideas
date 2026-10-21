@@ -1,4 +1,4 @@
-# Future-Project-Ideas
+# Future-Project-Ideas.
 Literally just an in-depth explanation of all the ideas I want to make in the future. 
 
 
