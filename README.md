@@ -19,6 +19,8 @@ Self-explanatory
 ## Buy the RPI 5 (16GB?)
 ## build an actually functioning robotic arm. one that isnt trash
 ## Google MediaPipe
+## Buy the SO-101
+
 
 # Completed bucket-list:
 1. Buy an cutting mat
